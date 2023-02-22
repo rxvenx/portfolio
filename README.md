@@ -8,8 +8,7 @@
 
 💬 I'm always interested in connecting with other web developers who are learning and growing in this field.
 
-📧 Feel free to reach out to me through email or social media if you have any questions or suggestions.
+📧 Feel free to reach out to me through <a href="mailto:h.bozaipo@gmail.com"> email </a> or <a href="https://www.linkedin.com/in/heloisabozaipo"> social media </a> if you have any questions or suggestions.
 
-<a href="mailto:h.bozaipo@gmail.com">Let's talk!</a>
-<br>
-<a href="https://www.linkedin.com/in/heloisabozaipo">Let's connect!</a>
+
+
