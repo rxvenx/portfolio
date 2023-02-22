@@ -1,10 +1,10 @@
 <h1> Hey, you!  </h1>
 
-🌟 I'm a wannabe web developer who is currently learning how to code;
+🌟 I'm a wannabe web developer who just decided to learn how to code;
 
-🖖 Don't know yet if I'm a server or client side <i> kind of person </i>, so I'm studying both frontend and backend development;
+🖖 Don't know yet if I'm a server or client side <i> kind of person </i>, so I'm studying both <i>(trust me, it's working)</i>;
 
-📚 To intensify my learning, I'm following a schedule where I alternate between studying frontend and backend on different days and using various online resources to supplement my learning <i>(trust me, I got it)</i>;
+📚 To intensify my learning, I'm following a schedule where I alternate between studying frontend and backend on different days and using various online resources to supplement my learning;
 
 🚀 In this repository, you'll find my practice projects and code snippets as I progress in my learning journey;
 
