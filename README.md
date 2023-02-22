@@ -11,4 +11,5 @@
 📧 Feel free to reach out to me through email or social media if you have any questions or suggestions.
 
 <a href="mailto:h.bozaipo@gmail.com">Let's talk!</a>
+<br>
 <a href="https://www.linkedin.com/in/heloisabozaipo">Let's connect!</a>
